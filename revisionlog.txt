@@ -31,6 +31,9 @@
 
 [2019-03-12]
 
+0.1.0.2
+- Fixed HashMap empty iterator.
+
 0.1.0.1
 - Initial project version.
 - Eclipse IDE and Composer Framework settings.

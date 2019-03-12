@@ -257,6 +257,7 @@ class HashMap extends AbstractCollection implements CollectionMap
 	{
 		$array = [];
 
+		if ($this->table !== null)
 		foreach ($this->table as $node)
 			while ($node !== null)
 			{
