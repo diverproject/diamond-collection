@@ -11,7 +11,7 @@ abstract class AbstractCollectionArray extends AbstractCollection
 	/**
 	 * @var array
 	 */
-	protected $elements;
+	protected $elements = [];
 
 	/**
 	 * {@inheritDoc}
